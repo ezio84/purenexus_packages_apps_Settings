@@ -56,8 +56,8 @@ public class AppOpsState {
         mContext = context;
         mAppOps = (AppOpsManager)context.getSystemService(Context.APP_OPS_SERVICE);
         mPm = context.getPackageManager();
-        mOpSummaries = context.getResources().getTextArray(R.array.app_ops_summaries);
-        mOpLabels = context.getResources().getTextArray(R.array.app_ops_labels);
+        mOpSummaries = context.getResources().getTextArray(R.array.app_ops_summaries_custom);
+        mOpLabels = context.getResources().getTextArray(R.array.app_ops_labels_custom);
     }
 
     public static class OpsTemplate implements Parcelable {
@@ -167,7 +167,7 @@ public class AppOpsState {
                     AppOpsManager.OP_AUDIO_ALARM_VOLUME,
                     AppOpsManager.OP_AUDIO_NOTIFICATION_VOLUME,
                     AppOpsManager.OP_AUDIO_BLUETOOTH_VOLUME,
-                    AppOpsManager.OP_MUTE_MICROPHONE},
+                    AppOpsManager.OP_MUTE_MICROPHONE },
             new boolean[] { false,
                     true,
                     true,
@@ -194,7 +194,11 @@ public class AppOpsState {
                     AppOpsManager.OP_PROJECT_MEDIA,
                     AppOpsManager.OP_ACTIVATE_VPN,
                     AppOpsManager.OP_ASSIST_STRUCTURE,
-                    AppOpsManager.OP_ASSIST_SCREENSHOT},
+                    AppOpsManager.OP_ASSIST_SCREENSHOT,
+                    AppOpsManager.OP_WIFI_CHANGE,
+                    AppOpsManager.OP_BLUETOOTH_CHANGE,
+                    AppOpsManager.OP_NFC_CHANGE,
+                    AppOpsManager.OP_DATA_CONNECT_CHANGE },
             new boolean[] { false,
                     true,
                     true,
@@ -204,12 +208,21 @@ public class AppOpsState {
                     false,
                     false,
                     false,
-                    false }
+                    false,
+                    true,
+                    true,
+                    true,
+                    true }
+            );
+
+    public static final OpsTemplate BOOTUP_TEMPLATE = new OpsTemplate(
+            new int[] { AppOpsManager.OP_BOOT_COMPLETED },
+            new boolean[] { true, }
             );
 
     public static final OpsTemplate[] ALL_TEMPLATES = new OpsTemplate[] {
             LOCATION_TEMPLATE, PERSONAL_TEMPLATE, MESSAGING_TEMPLATE,
-            MEDIA_TEMPLATE, DEVICE_TEMPLATE
+            MEDIA_TEMPLATE, DEVICE_TEMPLATE, BOOTUP_TEMPLATE
     };
 
     /**
