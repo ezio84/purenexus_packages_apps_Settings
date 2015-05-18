@@ -120,7 +120,9 @@ import com.android.settings.print.PrintSettingsFragment;
 import com.android.settings.search.DynamicIndexableContentMonitor;
 import com.android.settings.search.Index;
 import com.android.settings.sim.SimSettings;
+import com.android.settings.slim.fragments.PieButtonFragment;
 import com.android.settings.slim.NavbarSettings;
+import com.android.settings.slim.PieControl;
 import com.android.settings.tts.TextToSpeechSettings;
 import com.android.settings.users.UserSettings;
 import com.android.settings.vpn2.VpnSettings;
@@ -368,7 +370,9 @@ public class SettingsActivity extends Activity
             ExpandedDesktopPreferenceFragment.class.getName(),
             DisplayRotation.class.getName(),
             BlacklistSettings.class.getName(),
-            NavbarSettings.class.getName()
+            NavbarSettings.class.getName(),
+            PieControl.class.getName(),
+            PieButtonFragment.class.getName()
     };
 
 
