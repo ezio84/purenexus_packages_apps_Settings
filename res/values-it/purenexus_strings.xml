@@ -36,9 +36,9 @@
     <string name="display_rotation_180_title">180 gradi</string>
     <string name="display_rotation_270_title">270 gradi</string>
     
-    <string name="power_notifications_category_title">Suoni ricarica</string>
-    <string name="power_notifications_enable_title">Attiva</string>
-    <string name="power_notifications_enable_summary">Riproduci suono quando il caricatore viene connesso o disconnesso</string>
+    <string name="power_notifications_category_title">Ricarica</string>
+    <string name="power_notifications_enable_title">Notifica ricarica</string>
+    <string name="power_notifications_enable_summary">Notifica quando il caricatore viene connesso o disconnesso</string>
     <string name="power_notifications_vibrate_title">Vibrazione</string>
     <string name="power_notifications_ringtone_title">Suono notifica</string>
     <string name="power_notifications_ringtone_silent">Silenzioso</string>
