@@ -120,7 +120,6 @@ import com.android.settings.print.PrintSettingsFragment;
 import com.android.settings.search.DynamicIndexableContentMonitor;
 import com.android.settings.search.Index;
 import com.android.settings.sim.SimSettings;
-import com.android.settings.slim.RecentPanel;
 import com.android.settings.tts.TextToSpeechSettings;
 import com.android.settings.users.UserSettings;
 import com.android.settings.vpn2.VpnSettings;
@@ -367,8 +366,7 @@ public class SettingsActivity extends Activity
             NotificationLightSettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName(),
             DisplayRotation.class.getName(),
-            BlacklistSettings.class.getName(),
-            RecentPanel.class.getName()
+            BlacklistSettings.class.getName()
     };
 
 

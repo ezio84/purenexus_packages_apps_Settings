@@ -2553,31 +2553,6 @@
             </intent-filter>
         </receiver>
 
-        <!-- Slim Recent panel activity. -->
-        <activity android:name="Settings$SlimRecentActivity"
-                android:label="@string/recent_panel_category"
-                android:excludeFromRecents="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
-                android:value="com.android.settings.slim.RecentPanel" />
-            <meta-data android:name="com.android.settings.TOP_LEVEL_HEADER_ID"
-                android:resource="@id/display_settings" />
-        </activity>
-        <!-- Keep compatibility with old shortcuts. -->
-        <activity-alias android:name=".slim.RecentPanel"
-                  android:label="@string/recent_panel_category"
-                  android:clearTaskOnLaunch="true"
-                  android:exported="true"
-                  android:targetActivity="Settings$SlimRecentActivity">
-            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
-                android:value="com.android.settings.slim.RecentPanel" />
-            <meta-data android:name="com.android.settings.TOP_LEVEL_HEADER_ID"
-                android:resource="@id/display_settings" />
-        </activity-alias>
-        
         <!-- Watch for ContactsContract.Profile changes and update the user's photo.  -->
         <receiver android:name=".users.ProfileUpdateReceiver">
             <intent-filter>
