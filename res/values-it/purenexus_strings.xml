@@ -87,7 +87,8 @@
     <string name="dashboard_columns_three">Tre</string>
     <string name="dashboard_tileview_double_lines_title">Tiles espanse nella dashboard </string>
     <string name="dashboard_tileview_double_lines_summary">Utilizza due righe per i riquadri in Impostazioni</string>
-    <string name="dashboard_tileview_dividers_title">Separatori dashboard</string>
+    <string name="dashboard_tileview_dividers_title">Nascondi separatori</string>
     <string name="dashboard_tileview_dividers_summary">Nascondi i separatori delle tiles in Impostazioni</string>
+    <string name="header_category_custom">Controllo avanzato</string>
 
 </resources>
