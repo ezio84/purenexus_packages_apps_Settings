@@ -17,9 +17,9 @@
 
     <string name="battery_saver_color_title">Avvertimento con colore</string>
     <string name="battery_saver_color_summary">Colora di arancione le barre di stato e navigazione quando il risparmio della batteria è attivo</string>
-    
+
     <string name="custom_settings_title">Impostazioni PureNexus</string>
-    
+
     <string name="link_volume_option_title">Unisci volume suoneria e notifiche</string>
     <string name="notification_volume_option_title">Volume notifiche</string>
     <string name="ring_notification_volume_option_title">Volume suoneria e notifiche</string>
@@ -35,20 +35,20 @@
     <string name="display_rotation_90_title">90 gradi</string>
     <string name="display_rotation_180_title">180 gradi</string>
     <string name="display_rotation_270_title">270 gradi</string>
-    
+
     <string name="power_notifications_category_title">Ricarica</string>
     <string name="power_notifications_enable_title">Notifica ricarica</string>
     <string name="power_notifications_enable_summary">Notifica quando il caricatore viene connesso o disconnesso</string>
     <string name="power_notifications_vibrate_title">Vibrazione</string>
     <string name="power_notifications_ringtone_title">Suono notifica</string>
     <string name="power_notifications_ringtone_silent">Silenzioso</string>
-    
+
     <string name="blacklist_title">Blocked caller list</string>
-    
+
     <string name="nexus_version">Versione PureNexus mod</string>
     <string name="nexus_version_default">Sconosciuto</string>
     <string name="build_date">Data di compilazione</string>
-    
+
     <string name="blacklist_title">Blacklist</string>
     <string name="blacklist_edit_dialog_title">Modifica blacklist entry</string>
     <string name="blacklist_prefs">Impostazioni</string>
@@ -77,6 +77,17 @@
     <string name="remove_blacklist_number_title">Rimuovi numero</string>
     <string name="remove_blacklist_entry">Vuoi rimuovere questa voce dalla blacklist?</string>
     <string name="select_contact">Seleziona contatto</string>
-    
+
+    <string name="dashboard_category">Impostazioni dashboard</string>
+    <string name="dashboard_columns_title">Colonne dashboard</string>
+    <string name="dashboard_columns_summary">Cambia il numero delle colonne visualizzate in Impostazioni</string>
+    <string name="dashboard_columns_dialog_title">Numero colonne</string>
+    <string name="dashboard_columns_one">Una</string>
+    <string name="dashboard_columns_two">Due</string>
+    <string name="dashboard_columns_three">Tre</string>
+    <string name="dashboard_tileview_double_lines_title">Tiles espanse nella dashboard </string>
+    <string name="dashboard_tileview_double_lines_summary">Utilizza due righe per i riquadri in Impostazioni</string>
+    <string name="dashboard_tileview_dividers_title">Separatori dashboard</string>
+    <string name="dashboard_tileview_dividers_summary">Nascondi i separatori delle tiles in Impostazioni</string>
 
 </resources>
