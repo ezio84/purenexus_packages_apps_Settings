@@ -96,12 +96,6 @@
                 android:summary="@string/tap_to_wake_summary"
                 android:persistent="false" />
 
-        <com.android.settings.slim.SystemSettingSwitchPreference
-                android:key="double_tap_sleep_navbar"
-                android:title="@string/double_tap_sleep_nav_bar_title"
-                android:summary="@string/double_tap_sleep_nav_bar_summary"
-                android:defaultValue="false" />
-
         <com.android.settings.FontDialogPreference
                 android:key="font_size"
                 android:title="@string/title_font_size"

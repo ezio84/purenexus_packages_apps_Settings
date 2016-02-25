@@ -26,9 +26,6 @@
     <string name="choose_app">Choose application</string>
     <string name="reset_message">Reset all entries to default?</string>
 
-    <string name="double_tap_sleep_nav_bar_title">Tap navigation bar to sleep</string>
-    <string name="double_tap_sleep_nav_bar_summary">Double tap navigation bar to put device to sleep</string>
-
     <string name="show_ime_arrows_title">Show arrow keys while typing</string>
     <string name="show_ime_arrows_summary">Display left and right cursor buttons in navigation bar while typing. Longpress to navigate up/down. Overrides IME switcher and menu buttons.</string>
 
