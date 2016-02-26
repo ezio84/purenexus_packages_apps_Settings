@@ -91,4 +91,7 @@
     <string name="dashboard_tileview_dividers_summary">Nascondi i separatori delle tiles in Impostazioni</string>
     <string name="header_category_custom">Controllo avanzato</string>
 
+    <string name="increasing_ring_volume_option_title">Suoneria a volume crescente</string>
+    <string name="increasing_ring_min_volume_title">Volume iniziale</string>
+    <string name="increasing_ring_ramp_up_time_title">Tempo di incremento</string>
 </resources>
