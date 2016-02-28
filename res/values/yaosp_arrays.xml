@@ -178,9 +178,7 @@
 
     <!-- NavBar specific actions options -->
     <string-array name="shortcut_action_entries">
-        <item>@string/shortcut_action_back</item>
         <item>@string/shortcut_action_app</item>
-        <item>@string/shortcut_action_home</item>
         <item>@string/shortcut_action_kill</item>
         <item>@string/shortcut_action_lastapp</item>
         <item>@string/shortcut_action_menu_big</item>
@@ -200,9 +198,7 @@
     </string-array>
 
     <string-array name="shortcut_action_values" translatable="false">
-        <item>**back**</item>
         <item>**app**</item>
-        <item>**home**</item>
         <item>**kill**</item>
         <item>**lastapp**</item>
         <item>**menu_big**</item>
