@@ -97,4 +97,22 @@
 
     <string name="chamber_title">Camera dei segreti</string>
     <string name="chamber_toast">La camera dei segreti è aperta</string>
+
+    <string name="summary_doze_enabled">Attivato</string>
+    <string name="summary_doze_disabled">Disattivato</string>
+    <string name="doze_overwrite_value_title">Sovrascrivi predefiniti</string>
+    <string name="doze_overwrite_value_summary">Permette l\'inserimento di valori non standard</string>
+    <string name="doze_pulse_title">Impostazioni personalizzate</string>
+    <string name="doze_pulse_duration_visible_title">Durata visibilità</string>
+    <string name="doze_trigger_pickup_title">Riattiva schermo quando sollevi il dispositivo</string>
+    <string name="doze_trigger_pickup_summary_on">Lo schermo si riattiva quando il dispositivo viene sollevato</string>
+    <string name="doze_trigger_pickup_summary_off">Lo schermo non si riattiva quando il dispositivo viene sollevato</string>
+    <string name="doze_trigger_notification_title">Attivazione per notifiche</string>
+    <string name="doze_trigger_notification_summary_on">Le notifiche attiveranno la modalità Doze</string>
+    <string name="doze_trigger_notification_summary_off">Le notifiche non attiveranno la modalità Doze</string>
+    <string name="doze_brightness_level_title">Livello luminosità</string>
+    <string name="doze_notification_color_invert_title">Inversione notifiche</string>
+    <string name="doze_notification_color_invert_summary_off">Le notifiche non saranno invertite. Da usare per temi scuri.</string>
+    <string name="doze_notification_color_invert_summary_on">Le notifiche saranno invertite. Da usare per temi chiari</string>
+
 </resources>
