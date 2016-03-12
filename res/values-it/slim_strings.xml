@@ -70,4 +70,6 @@
     <string name="pie_disable_ime_triggers_summary">Riduce la zona di attivazione della Pie se è attiva la tastiera</string>
     <string name="shortcut_action_required_warning_message">Non è possibile rimuovere questo pulsante</string>
 
+    <string name="disable_fullscreen_keyboard_title">Disattiva tastiera a schermo intero</string>
+    <string name="disable_fullscreen_keyboard_summary">In modalità orizzontale la tastiera non andrà a schermo intero</string>
 </resources>
