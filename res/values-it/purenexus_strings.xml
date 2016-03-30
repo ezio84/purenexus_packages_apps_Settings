@@ -18,7 +18,7 @@
     <string name="battery_saver_color_title">Avvertimento con colore</string>
     <string name="battery_saver_color_summary">Colora di arancione le barre di stato e navigazione quando il risparmio della batteria è attivo</string>
 
-    <string name="battery_light_title">Led batteria/string>
+    <string name="battery_light_title">Led batteria</string>
     <string name="battery_low_pulse_title">Lampeggia se batteria scarica</string>
     <string name="battery_light_low_color_title">Batteria scarica</string>
     <string name="battery_light_medium_color_title">Ricarica</string>
