@@ -122,4 +122,26 @@
     <string name="doze_notification_color_invert_summary_off">Le notifiche non saranno invertite. Da usare per temi scuri.</string>
     <string name="doze_notification_color_invert_summary_on">Le notifiche saranno invertite. Da usare per temi chiari</string>
 
+        <!-- Heads Up Notifications -->
+    <string name="title_heads_up">Notifiche Heads up</string>
+    <string name="force_headsup_title">Forza heads up</string>
+    <string name="force_headsup_summary">Forza heads up in tutte le apps</string>
+    <string name="add_heads_up_package">Aggiungi app</string>
+    <string name="add_heads_up_dnd_summary">Non mostrare heads up in queste apps</string>
+    <string name="add_heads_up_blacklist_summary">Non mostrare heads up da queste apps</string>
+    <string name="add_heads_up_whitelist_summary">Forza heads up da tutte queste apps</string>
+    <string name="heads_up_dnd_title">Non disturbare</string>
+    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="heads_up_whitelist_title">Whitelist</string>
+    <string name="heads_up_disabled_notice">Per permettere la visualizzazione di notifiche interattive in stile popup, attive le Heads up.</string>
+    <string name="heads_up_contains_key">Questa app è già stata aggiunta alla lista</string>
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Time out</string>
+    <string name="heads_up_time_out_summary">Le notifiche saranno mostrate per <xliff:g id="number">%d</xliff:g> secondi</string>
+    <string name="heads_up_time_out_2sec">2 secondi</string>
+    <string name="heads_up_time_out_4sec">4 secondi</string>
+    <string name="heads_up_time_out_5sec">5 secondi</string>
+    <string name="heads_up_time_out_6sec">6 secondi</string>
+    <string name="heads_up_time_out_8sec">8 secondi</string>
+    <string name="heads_up_time_out_10sec">10 secondi</string>
 </resources>
