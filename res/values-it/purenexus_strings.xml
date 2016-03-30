@@ -18,6 +18,13 @@
     <string name="battery_saver_color_title">Avvertimento con colore</string>
     <string name="battery_saver_color_summary">Colora di arancione le barre di stato e navigazione quando il risparmio della batteria è attivo</string>
 
+    <string name="battery_light_title">Led batteria/string>
+    <string name="battery_low_pulse_title">Lampeggia se batteria scarica</string>
+    <string name="battery_light_low_color_title">Batteria scarica</string>
+    <string name="battery_light_medium_color_title">Ricarica</string>
+    <string name="battery_light_full_color_title">Carica (90%)</string>
+    <string name="battery_light_really_full_color_title">Carica (100%)</string>
+
     <string name="custom_settings_title">Impostazioni PureNexus</string>
 
     <string name="link_volume_option_title">Unisci volume suoneria e notifiche</string>
