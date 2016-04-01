@@ -235,4 +235,7 @@
     <string name="increasing_ring_min_volume_title">Volume iniziale</string>
     <string name="increasing_ring_ramp_up_time_title">Tempo di incremento</string>
 
+    <string name="doze_wakeup_doubletap_title">Doppio tap su notifica doze per risvegliare</string>
+    <string name="doze_wakeup_doubletap_summary_on">Richiede un doppio tap per il risveglio del dispositivo da una notifica doze</string>
+    <string name="doze_wakeup_doubletap_summary_off">Richiede un singolo tap per il risveglio del dispositivo da una notifica doze</string>
 </resources>
