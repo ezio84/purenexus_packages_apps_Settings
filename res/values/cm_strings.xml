@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- Category title for Charging sounds (Power state change) specific Settings.
          [CHAR LIMIT=40] -->
     <string name="power_notifications_category_title">Charging sounds</string>
@@ -28,4 +29,6 @@
     <string name="power_notifications_ringtone_title">Notification sound</string>
     <!-- Sound settings, charging sounds label for ringtone == none -->
     <string name="power_notifications_ringtone_silent">Silent</string>
+
+    <string name="notification_light_no_apps_summary">To add per app control, activate \'%1$s\' and press \'\u002b\' on the menu bar</string>
 </resources>

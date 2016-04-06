@@ -154,4 +154,6 @@
     <string name="heads_up_snooze_10min">10 minuti</string>
     <string name="heads_up_snooze_15min">15 minuti</string>
     <string name="heads_up_snooze_20min">20 minuti</string>
+    
+    <string name="notification_light_no_apps_summary">Per controllare un\'app specifica, attiva \'%1$s\' e premi \'\u002b\' sulla barra menu</string>
 </resources>
