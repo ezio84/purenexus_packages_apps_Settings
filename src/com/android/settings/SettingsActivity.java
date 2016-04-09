@@ -135,6 +135,7 @@ import com.android.settings.wifi.AdvancedWifiSettings;
 import com.android.settings.wifi.SavedAccessPointsWifiSettings;
 import com.android.settings.wifi.WifiSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
+import com.android.settings.nexus.ambientdisplay.AmbientSettings;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
@@ -378,7 +379,8 @@ public class SettingsActivity extends Activity
             PieButtonFragment.class.getName(),
             HeadsUpSettings.class.getName(),
             KeyguardShortcuts.class.getName(),
-            LockscreenShortcutFragment.class.getName()
+            LockscreenShortcutFragment.class.getName(),
+            AmbientSettings.class.getName()
     };
 
 
