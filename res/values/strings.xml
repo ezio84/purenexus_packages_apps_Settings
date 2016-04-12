@@ -6622,7 +6622,7 @@
    <string name="tap_to_wake">Tap to wake</string>
 
    <!-- Summary for take to wake setting [CHAR LIMIT=90] -->
-   <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+   <string name="tap_to_wake_summary">Double-tap in the middle of the screen to wake device</string>
 
     <!-- Label for the Domain URLs list that shows domain urls per App [CHAR LIMIT=30] -->
     <string name="domain_urls_title">App links</string>
