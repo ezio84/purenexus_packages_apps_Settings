@@ -72,4 +72,12 @@
 
     <string name="disable_fullscreen_keyboard_title">Disattiva tastiera a schermo intero</string>
     <string name="disable_fullscreen_keyboard_summary">In modalità orizzontale la tastiera non andrà a schermo intero</string>
+
+    <!-- Lockscreen Shortcuts -->
+    <string name="lockscreen_shortcuts_title">Collegamenti zona centrale</string>
+    <string name="lockscreen_shortcuts_summary">Visualizza e cambia collegamenti lockscreen</string>
+    <string name="lockscreen_shorcuts_launch_type_title">Modalità lancio collegamenti</string>
+    <string name="lockscreen_shortcuts_single_tap">Singolo tap</string>
+    <string name="lockscreen_shortcuts_double_tap">Doppio tap</string>
+    <string name="lockscreen_shortcuts_longpress">Pressione lunga</string>
 </resources>

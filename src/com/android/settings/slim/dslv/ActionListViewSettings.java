@@ -564,6 +564,8 @@ public class ActionListViewSettings extends ListFragment implements
             case PIE_SECOND:
                 return ActionHelper.getPieSecondLayerConfigWithDescription(
                     mActivity, mActionValuesKey, mActionEntriesKey);
+            case LOCKSCREEN_SHORTCUT:
+                return ActionHelper.getLockscreenShortcutConfig(mActivity);
         }
         return null;
     }
@@ -578,6 +580,9 @@ public class ActionListViewSettings extends ListFragment implements
                 break;
             case PIE_SECOND:
                 ActionHelper.setPieSecondLayerConfig(mActivity, actionConfigs, reset);
+                break;
+            case LOCKSCREEN_SHORTCUT:
+                ActionHelper.setLockscreenShortcutConfig(mActivity, actionConfigs, reset);
                 break;
         }
     }

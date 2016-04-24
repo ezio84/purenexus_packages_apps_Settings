@@ -121,6 +121,7 @@ import com.android.settings.print.PrintSettingsFragment;
 import com.android.settings.search.DynamicIndexableContentMonitor;
 import com.android.settings.search.Index;
 import com.android.settings.sim.SimSettings;
+import com.android.settings.slim.fragments.LockscreenShortcutFragment;
 import com.android.settings.slim.fragments.PieButtonFragment;
 import com.android.settings.nexus.KeyguardShortcuts;
 import com.android.settings.slim.NavbarSettings;
@@ -376,7 +377,8 @@ public class SettingsActivity extends Activity
             PieControl.class.getName(),
             PieButtonFragment.class.getName(),
             HeadsUpSettings.class.getName(),
-            KeyguardShortcuts.class.getName()
+            KeyguardShortcuts.class.getName(),
+            LockscreenShortcutFragment.class.getName()
     };
 
 
