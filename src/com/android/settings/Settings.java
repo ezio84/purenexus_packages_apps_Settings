@@ -128,4 +128,5 @@ public class Settings extends SettingsActivity {
     public static class PieActivity extends SettingsActivity { /* empty */ }
     public static class PieButtonActivity extends SettingsActivity { /* empty */ }
     public static class HeadsUpSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class KeyguardShortcutsActivity extends SettingsActivity { /* empty */ }
 }

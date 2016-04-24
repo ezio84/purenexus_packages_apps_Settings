@@ -2609,6 +2609,31 @@
             </intent-filter>
         </receiver>
 
+        <!-- Keyguard shortcuts activity. -->
+        <activity android:name="Settings$KeyguardShortcutsActivity"
+                android:label="@string/keyguard_shortcuts_title"
+                android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.nexus.KeyguardShortcuts" />
+            <meta-data android:name="com.android.settings.TOP_LEVEL_HEADER_ID"
+                android:resource="@id/display_settings" />
+        </activity>
+        <!-- Keep compatibility with old shortcuts. -->
+        <activity-alias android:name=".nexus.KeyguardShortcuts"
+                  android:label="@string/keyguard_shortcuts_title"
+                  android:clearTaskOnLaunch="true"
+                  android:exported="true"
+                  android:targetActivity="Settings$KeyguardShortcutsActivity">
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.nexus.KeyguardShortcuts" />
+            <meta-data android:name="com.android.settings.TOP_LEVEL_HEADER_ID"
+                android:resource="@id/display_settings" />
+        </activity-alias>
+
         <!-- Slim Navbar activity. -->
         <activity android:name="Settings$NavbarActivity"
                 android:label="@string/navigation_settings_category"
