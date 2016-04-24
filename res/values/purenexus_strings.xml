@@ -413,4 +413,5 @@
     <string name="select_contact">Select contact</string>
 
     <string name="keyguard_shortcuts_title">Lockscreen quick shortcuts</string>
+    <string name="lockscreen_targets_message">Lockscreen bottom left-right shortcuts</string>
 </resources>
