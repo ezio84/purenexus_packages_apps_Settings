@@ -24,6 +24,10 @@
     <string name="navigation_bar_ime_button_summary">Mostra pulsante selezione IME nella barra di navigazione</string>
     <string name="input_method_category">Selettore IME</string>
 
+   <!-- Advanced storage settings -->
+   <string name="storage_advanced_titlebar">Configurazione avanzata</string>
+   <string name="storage_menu_advanced">Avanzate</string>
+
    <!-- USB data automatic unlock -->
    <string name="usb_data_auto_unlock_title">Sblocca dati USB</string>
    <string name="usb_data_auto_unlock_summary">Permette l\'accesso costante ai dati decriptati tramite USB (MTP, PTP)</string>

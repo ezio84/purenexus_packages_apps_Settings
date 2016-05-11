@@ -2651,7 +2651,7 @@
     <string name="restr_pin_enter_admin_pin" msgid="2451187374960131018">"Inserisci PIN amministratore"</string>
     <string name="switch_on_text" msgid="1124106706920572386">"Attivo"</string>
     <string name="switch_off_text" msgid="1139356348100829659">"Non attiva"</string>
-    <string name="screen_pinning_title" msgid="2292573232264116542">"Blocco su schermo"</string>
+    <string name="screen_pinning_title" msgid="2292573232264116542">"Blocco su schermo (App pinning)"</string>
     <string name="screen_pinning_description" msgid="1137904524037468263">"Quando l\'impostazione è attiva, puoi utilizzare il blocco su schermo per lasciare visibile la schermata corrente finché la sblocchi.\n\nPer usare la funzione:\n\n1. Assicurati che il blocco su schermo sia attivo.\n\n2. Apri la schermata da bloccare.\n\n3. Tocca Panoramica.\n\n4. Scorri in alto e tocca l\'icona di blocco."</string>
     <string name="screen_pinning_unlock_pattern" msgid="8282268570060313339">"Richiedi sequenza di sblocco prima di sbloccare"</string>
     <string name="screen_pinning_unlock_pin" msgid="8757588350454795286">"Richiedi il PIN per lo sblocco"</string>
