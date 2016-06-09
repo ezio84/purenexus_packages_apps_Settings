@@ -33,13 +33,4 @@
    <string name="usb_data_auto_unlock_summary">Permette l\'accesso costante ai dati decriptati tramite USB (MTP, PTP)</string>
    <string name="usb_data_auto_unlock_warning_summary">Il tuo dispositivo stabilirà una connessione sempre decriptata quando connesso al PC. La lockscreen sicura disattiva automaticamente questa funzione.</string>
 
-    <!-- Screenshot crop and share -->
-    <string name="screenshot_cat_title">Opzioni screenshot</string>
-    <string name="screenshot_crop_and_share_title">Ritaglia e condividi screenshot</string>
-    <string name="screenshot_crop_and_share_summary">Mostra un editor avanzato dopo la cattura dello screenshot</string>
-    <string name="screenshot_crop_behavior_title">Modalità ritaglio</string>
-    <string name="screenshot_crop_behavior_summary">Usa sempre l\'immagine ritagliata all\'interno del riquadro impostato, anche se il pulsante Applica non è stato premuto</string>
-
-
-
 </resources>
