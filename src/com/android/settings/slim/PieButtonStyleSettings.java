@@ -40,7 +40,7 @@ import com.android.internal.logging.MetricsLogger;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-import net.margaritov.preference.colorpicker.ColorPickerPreference;
+import com.pure.settings.preferences.ColorPickerPreference;
 
 public class PieButtonStyleSettings extends SettingsPreferenceFragment implements
         OnPreferenceChangeListener {

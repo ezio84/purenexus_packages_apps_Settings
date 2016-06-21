@@ -39,7 +39,7 @@ import com.android.internal.logging.MetricsLogger;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.R;
 
-import net.margaritov.preference.colorpicker.ColorPickerPreference;
+import com.pure.settings.preferences.ColorPickerPreference;
 
 public class NavBarButtonStyle extends SettingsPreferenceFragment implements
         OnPreferenceChangeListener {
