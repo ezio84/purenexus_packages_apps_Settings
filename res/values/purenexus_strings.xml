@@ -92,7 +92,7 @@
 
 <!-- Device Info Settings -->
     <!-- Nexus version -->
-    <string name="nexus_version">PureNexus version</string>
+    <string name="nexus_version">PureNexus MOD version</string>
     <string name="nexus_version_default">Unknown</string>
     <!-- Build date -->
     <string name="build_date">Build date</string>
