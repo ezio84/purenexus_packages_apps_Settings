@@ -33,4 +33,7 @@
     <string name="navigation_bar_ime_button_summary">Input switcher in navigation bar</string>
     <string name="input_method_category">Input method switcher</string>
 
+   <!-- App details: open play store link if app is user installed -->
+   <string name="app_play_store">Google Play</string>
+
 </resources>
