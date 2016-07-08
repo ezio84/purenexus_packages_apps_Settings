@@ -24,4 +24,27 @@
     <string name="navigation_bar_ime_button_summary">Mostra pulsante selezione IME nella barra di navigazione</string>
     <string name="input_method_category">Selettore IME</string>
 
+    <string name="doze_notification_color_invert_title">Inverti notifiche</string>
+    <string name="doze_notification_color_invert_summary_off">Le notifiche non saranno invertite. Usare con temi scuri.</string>
+    <string name="doze_notification_color_invert_summary_on">Le notifiche saranno invertite. Usare con temi chiari.</string>
+
+    <string name="doze_wakeup_doubletap_title">Doppio tap per risveglio</string>
+    <string name="doze_wakeup_doubletap_summary_on">Doppio tocco per risvegliare il dispositivo durante il display ambient</string>
+    <string name="doze_wakeup_doubletap_summary_off">Tocco singolo per risvegliare il dispositivo durante il display ambient (default)</string>
+
+   <!-- Advanced storage settings -->
+   <string name="storage_advanced_titlebar">Configurazione avanzata</string>
+   <string name="storage_menu_advanced">Avanzate</string>
+
+   <!-- USB data automatic unlock -->
+   <string name="usb_data_auto_unlock_title">Sblocca dati USB</string>
+   <string name="usb_data_auto_unlock_summary">Permette l\'accesso costante ai dati decriptati tramite USB (MTP, PTP)</string>
+   <string name="usb_data_auto_unlock_warning_summary">Il tuo dispositivo stabilirà una connessione sempre decriptata quando connesso al PC. La lockscreen sicura disattiva automaticamente questa funzione.</string>
+
+   <string name="power_notifications_category_title">Ricarica</string>
+   <string name="power_notifications_enable_title">Notifica ricarica</string>
+   <string name="power_notifications_enable_summary">Notifica quando il caricatore viene connesso o disconnesso</string>
+   <string name="power_notifications_vibrate_title">Vibrazione</string>
+   <string name="power_notifications_ringtone_title">Suono notifica</string>
+   <string name="power_notifications_ringtone_silent">Silenzioso</string>
 </resources>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 Yank555.lu Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- General strings -->
+    <string name="ok">Ok</string>
+    <string name="reset">Reset</string>
+    <string name="help">Aiuto</string>
+    <string name="add">Aggiungi</string>
+    <string name="help">Aiuto</string>
+    <string name="attention">Attenzione</string>
+    <string name="enabled">Abilitato</string>
+    <string name="default_string">Predefinito</string>
+    <string name="choose_app">Seleziona l\'applicazione</string>
+
+
+    <string name="show_ime_arrows_title">Mostra frecce durante digitazione</string>
+    <string name="show_ime_arrows_summary">Visualizza i cursori destro e sinistro nella barra di navigazione durante la digitazione. La pressione lunga va ad inizio o fine frase.</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Seleziona colore</string>
+    <string name="press_color_to_apply">Premere sul colore sottostante per applicare</string>
+    <string name="set">Imposta</string>
+    <string name="color_default">Predefinito</string>
+
+    <!-- SlimActions -->
+    <string name="shortcut_action_none">Niente</string>
+    <string name="shortcut_action_app">App personalizzata</string>
+    <string name="shortcut_action_home">Home</string>
+    <string name="shortcut_action_back">Indietro</string>
+    <string name="shortcut_action_menu">Menu</string>
+    <string name="shortcut_action_ime">Apri selettore IME</string>
+    <string name="shortcut_action_power_menu">Menu Power</string>
+    <string name="shortcut_action_recent">Recenti</string>
+    <string name="shortcut_action_power">Spegni schermo</string>
+    <string name="shortcut_action_search">Ricerca nell\'app</string>
+    <string name="shortcut_action_ring_vib">Suoneria/Vibrazione</string>
+    <string name="shortcut_action_ring_silent">Suoneria/Silenzioso</string>
+    <string name="shortcut_action_ring_vib_silent">Suoneria/Vibrazione/Silenzioso</string>
+    <string name="shortcut_action_camera">Fotocamera</string>
+    <string name="shortcut_action_media_next">Musica - traccia successiva</string>
+    <string name="shortcut_action_media_play_pause">Musica - play/pausa</string>
+    <string name="shortcut_action_media_previous">Musica - traccia precedente</string>
+    <string name="shortcut_action_wake_device">Risveglio dispositivo</string>
+    <string name="shortcut_action_ring_vib">Suoneria/Vibrazione</string>
+    <string name="shortcut_action_ring_silent">Suoneria/Silenzioso</string>
+    <string name="shortcut_action_ring_vib_silent">Suoneria/Vibrazione/Silenzioso</string>
+    <string name="shortcut_action_longpress">Pressione prolungata:</string>
+    <string name="shortcut_action_select_action_longpress">Scegli l\'azione per la pressione prolungata:</string>
+    <string name="shortcut_action_select_action">Scegli azione:</string>
+    <string name="shortcut_action_select_action_newaction">Scegli nuova azione:</string>
+    <string name="shortcut_action_reset">Reimposta</string>
+    <string name="shortcut_action_add">Aggiungi</string>
+    <string name="shortcut_action_reset_message">Reimpostare tutte le voci a default?</string>
+    <string name="shortcut_action_max">Il numero massimo di voci è stato raggiunto</string>
+    <string name="shortcut_action_warning">Attenzione</string>
+    <string name="shortcut_action_warning_message">Non è possibile eliminare l\'ultima voce</string>
+    <string name="shortcut_action_disable_message">Disattivato\nAggiung una voce per attivare questa funzione</string>
+    <string name="shortcut_image_not_valid">L\'app selezionata non ha fornito un\'icona valida o non supporta il ritaglio immagine. Usane un\'altra.</string>
+    <string name="shortcut_duplicate_entry">L\'azione seguente non può essere aggiunta due volte</string>
+    <string name="shortcut_action_help_shortcut">scorciatoia</string>
+    <string name="shortcut_action_help_button">pulsante</string>
+    <string name="shortcut_action_help_app">App</string>
+    <string name="shortcut_action_help_icon">, mentre selezioni l\'icona, si apriranno le opzioni di personalizzazione</string>
+    <string name="shortcut_action_help_main">Per aggiungere una %1$s, seleziona l\'icona Aggiungi.  Dopo che la %1$s è stata aggiunta, selezionando la riga potrai cambiare l\'obiettivo %2$s\n\n Per rimuovere una %1$s, trascina l\'elemento a destra o sinistra.  Riordina una %1$s trascinandola verticalmente utilizzando il punto di ancoraggio a sinistra.\n\n Per ripulire o ripristinare, seleziona l\'icona Reimposta.</string>
+    <string name="shortcut_action_help_delete_last_entry">Rimuovendo ogni %1$s dalla lista disabiliterà la funzione.</string>
+    <string name="shortcut_action_help_pie_second_layer_delete_last_entry">Rimuovendo ogni %1$s dalla lista disattiverà il secondo layer.</string>
+    <string name="shortcuts_applications">Applicazioni</string>
+    <string name="shortcuts_select_custom_app_title">Scegli un\'applicazione personalizzata</string>
+    <string name="shortcuts_icon_picker_type">Selezione il tipo di icona:</string>
+    <string name="shortcuts_icon_default">Default</string>
+    <string name="shortcuts_icon_presets">Icone di sistema</string>
+    <string name="shortcuts_icon_custom">Galleria</string>
+    <string name="shortcuts_icon_picker_choose_icon_title">Scegli icona</string>
+    <string name="shortcuts_icon_picker_alarm">Sveglia</string>
+    <string name="shortcuts_icon_picker_andy">Andy</string>
+    <string name="shortcuts_icon_picker_battery">Batteria</string>
+    <string name="shortcuts_icon_picker_browser">Browser</string>
+    <string name="shortcuts_icon_picker_calendar">Calendario</string>
+    <string name="shortcuts_icon_picker_camera">Fotocamera</string>
+    <string name="shortcuts_icon_picker_cloud">Cloud</string>
+    <string name="shortcuts_icon_picker_contact">Contatto</string>
+    <string name="shortcuts_icon_picker_directdial">Composizione diretta</string>
+    <string name="shortcuts_icon_picker_directmessage">Messaggio diretto</string>
+    <string name="shortcuts_icon_picker_drive">Drive</string>
+    <string name="shortcuts_icon_picker_dropbox">Dropbox</string>
+    <string name="shortcuts_icon_picker_email">Mail</string>
+    <string name="shortcuts_icon_picker_email2">Mail alternativa</string>
+    <string name="shortcuts_icon_picker_evernote">Evernote</string>
+    <string name="shortcuts_icon_picker_facebook">Facebook</string>
+    <string name="shortcuts_icon_picker_favorite">Preferito</string>
+    <string name="shortcuts_icon_picker_file_browser">File Browser</string>
+    <string name="shortcuts_icon_picker_file_browser2">File Browser alternativo</string>
+    <string name="shortcuts_icon_picker_fitness">Fitness</string>
+    <string name="shortcuts_icon_picker_gallery">Galleria</string>
+    <string name="shortcuts_icon_picker_gears">Gears</string>
+    <string name="shortcuts_icon_picker_google_small">Google</string>
+    <string name="shortcuts_icon_picker_gplus">Google Plus</string>
+    <string name="shortcuts_icon_picker_gtalk">Hangouts</string>
+    <string name="shortcuts_icon_picker_help">Aiuto</string>
+    <string name="shortcuts_icon_picker_joystick">Joystick</string>
+    <string name="shortcuts_icon_picker_key">PAssword/Accounts</string>
+    <string name="shortcuts_icon_picker_laptop">Laptop</string>
+    <string name="shortcuts_icon_picker_notes">Appunti</string>
+    <string name="shortcuts_icon_picker_luggage">Viaggio</string>
+    <string name="shortcuts_icon_picker_maps">Mappe</string>
+    <string name="shortcuts_icon_picker_market">Play store</string>
+    <string name="shortcuts_icon_picker_movie">Film</string>
+    <string name="shortcuts_icon_picker_music">Musica</string>
+    <string name="shortcuts_icon_picker_nav">Navigazione</string>
+    <string name="shortcuts_icon_picker_phone">Telefono</string>
+    <string name="shortcuts_icon_picker_package">Pacchetto</string>
+    <string name="shortcuts_icon_picker_pinterest">Pinterest</string>
+    <string name="shortcuts_icon_picker_play">Avvia</string>
+    <string name="shortcuts_icon_picker_pocket">Tasca</string>
+    <string name="shortcuts_icon_picker_quicksettings">Impostazioni rapide</string>
+    <string name="shortcuts_icon_picker_rss">Feed RSS</string>
+    <string name="shortcuts_icon_picker_sdcard">Scheda SD</string>
+    <string name="shortcuts_icon_picker_search">Cerca</string>
+    <string name="shortcuts_icon_picker_sms">Messaggistica</string>
+    <string name="shortcuts_icon_picker_tasks">Compiti</string>
+    <string name="shortcuts_icon_picker_terminal">Terminale</string>
+    <string name="shortcuts_icon_picker_transit">Transito</string>
+    <string name="shortcuts_icon_picker_tv">TV</string>
+    <string name="shortcuts_icon_picker_twitter">Twitter</string>
+    <string name="shortcuts_icon_picker_unlock">Sblocco</string>
+
+    <string name="no_back_key">Non hai più pulsanti assegnati per l\'azione \"Home\"\n\nQuesto può rendere inutilizzabile il dispositivo!</string>
+    <string name="no_back_key">Non hai più pulsanti assegnati per l\'azione \"Indietro\"\n\nQuesto può rendere inutilizzabile il dispositivo!</string>
+    <string name="reassign_home_key">Non puoi riassegnare il tasto \"Home\"\n\nQuesto può rendere inutilizzabile il dispositivo!</string>
+    <string name="reassign_back_key">Non puoi riassegnare il tasto \"Back\"\n\nQuesto può rendere inutilizzabile il dispositivo!</string>
+    <string name="remove_home_key">Non puoi rimuovere il tasto \"Home\"\n\nQuesto può rendere inutilizzabile il dispositivo!</string>
+    <string name="remove_back_key">Non puoi rimuovere il tasto \"Back\"\n\nQuesto può rendere inutilizzabile il dispositivo!</string>
+
+    <!-- Icon color options -->
+    <string name="icon_color_mode_all_icons">Tutte le icone</string>
+    <string name="icon_color_mode_system_icons">Icone di sistema</string>
+    <string name="icon_color_mode_system_custom_icons">Icone personali e di sistema</string>
+
+    <!-- Button shorcut actions -->
+    <string name="shortcut_action_expanded_desktop">Desktop espanso</string>
+    <string name="shortcut_action_kill">Termina app</string>
+    <string name="shortcut_action_lastapp">App precedente</string>
+    <string name="shortcut_action_nav_bar">Navigation bar</string>
+    <string name="shortcut_action_notifications">Notifiche</string>
+    <string name="shortcut_action_menu_big">Menu</string>
+    <string name="shortcut_action_qs">Pannello Quick Settings</string>
+    <string name="shortcut_action_settings_panel">Pannello Quick Settings</string>
+    <string name="shortcut_action_smart">Pulldown intelligente</string>
+    <string name="shortcut_action_recents">Recenti</string>
+    <string name="shortcut_action_screenshot">Screenshot</string>
+    <string name="shortcut_action_assist">Ricerca</string>
+    <string name="shortcut_action_search">Ricerca nell\'app</string>
+    <string name="shortcut_action_theme_switch">Cambia tema</string>
+    <string name="shortcut_action_torch">Torcia</string>
+    <string name="shortcut_action_voice_search">Ricerca vocale</string>
+    <string name="shortcut_action_nowontap">Google Now On Tap</string>
+
+    <!-- Navigation bar -->
+    <string name="navigation_settings_category">Navigazione</string>
+    <string name="navigation_settings_title">Navigazione</string>
+    <string name="navigation_bar_size_42_dp_default">42 dp (predefinito)</string>
+    <string name="navigation_bar_size_48_dp_default">48 dp (predefinito)</string>
+    <string name="navigation_bar_size_0_dp">0 dp (disattivata)</string>
+    <string name="navigation_menu_right">Destra</string>
+    <string name="navigation_menu_left">Sinistra</string>
+    <string name="navigation_menu_both">Entrambe</string>
+    <string name="navigation_menu_default_jb_behavior">Mostra su richiesta (predefinito)</string>
+    <string name="navigation_menu_never_show">Nascondi</string>
+    <string name="navigation_menu_always_show">Mostra sempre</string>
+    <string name="navbar_button_cat">Pulsanti</string>
+    <string name="title_pref_menu_location">Posizione pulsante Menu</string>
+    <string name="summary_pref_menu_location">Dove vuoi che appaiano i pulsanti Menu?</string>
+    <string name="title_pref_menu_display">Visibilità Menu</string>
+    <string name="summary_pref_menu_display">Come e quando vuoi che appaiano i pulsanti Menu?</string>
+    <string name="navbar_enable_bar">Attiva barra navigazione</string>
+    <string name="navbar_enable_bar_summary">Attiva la barra di navigazione</string>
+    <string name="navigation_bar_height_title">Altezza barra portrait</string>
+    <string name="navigation_bar_height_summary">Altezza barra in basso con dispositivo in verticale.</string>
+    <string name="navigation_bar_height_landscape_title">Altezza barra landscape.</string>
+    <string name="navigation_bar_height_landscape_summary">Altezza barra in basso con dispositivo in orizzontale.</string>
+    <string name="navigation_bar_width_title">Larghezza barra navigazione</string>
+    <string name="navigation_bar_width_summary">Altezza barra a lato con dispositivo in orizzontale.</string>
+    <string name="navbar_can_move">Modalità alternativa landscape</string>
+    <string name="navbar_can_move_summary">Mostra la barra in basso anzichè a lato con il dispositivo in orizzontale</string>
+    <string name="navbar_style_dimen_title">Dimensioni</string>
+    <string name="navbar_style_dimen_summary">Cambia l\'altezza della barra di navigazione</string>
+    <string name="navbar_button_title">Pulsanti</string>
+    <string name="navbar_button_summary">Configura i pulsanti da mostrare nella barra di navigazione</string>
+    <string name="navbar_cat">Barra di navigazione</string>
+    <string name="navbar_dimensions_reset_message">Ripristinare i valori predefiniti?</string>
+    <string name="navbar_button_style_reset_message">Ripristinare i valori predefiniti?</string>
+
+    <!-- SlimDim -->
+    <string name="dim_nav_buttons_category">SlimDim</string>
+    <string name="dim_nav_buttons_title">Oscura pulsanti dopo inattività</string>
+    <string name="dim_nav_buttons_summary">Riduce la visibilità dei pulsanti nella navbar dopo un tempo specificato di inattività sulla stessa</string>
+    <string name="dim_nav_buttons_timeout_title">Timeout</string>
+    <string name="dim_nav_buttons_timeout_summary">Tempo (in millisecondi) di attesa prima di ridurre la visibilità dei pulsanti</string>
+    <string name="dim_nav_buttons_alpha_title">Opacità</string>
+    <string name="dim_nav_buttons_alpha_summary">Livello finale di visibilità</string>
+    <string name="dim_nav_buttons_animate_title">Animazione</string>
+    <string name="dim_nav_buttons_animate_summary">Animazione per la riduzione di visibilità</string>
+    <string name="dim_nav_buttons_animate_duration_title">Durata animazione</string>
+    <string name="dim_nav_buttons_animate_duration_summary">Durata (in millisecondi) dell\'animazione</string>
+    <string name="dim_nav_buttons_touch_anywhere_title">Rileva attività su tutto lo schermo</string>
+    <string name="dim_nav_buttons_touch_anywhere_summary_on">Il tocco su una parte qualsiasi dello schermo causerà l\'aumento della visibilità dei pulsanti</string>
+    <string name="dim_nav_buttons_touch_anywhere_summary_off">Solo i tocchi sulla navbar causeranno l\'aumento di visibilità dei pulsanti</string>
+
+    <!-- Navigation bar button style -->
+    <string name="nav_bar_button_style">Stile pulsanti</string>
+    <string name="nav_bar_button_style_summary">Personalizza lo stile dei pulsanti nella barra</string>
+    <string name="button_transparency_title">Trasparenza pulsanti</string>
+    <string name="navigation_bar_icon_tint_title">Colore pulsanti</string>
+    <string name="nav_button_color_mode_title">Modalità colore</string>
+    <string name="nav_button_color_mode_dialog_title">Colora</string>
+    <string name="nav_button_color_mode_summary">Configura la modalità colore dei pulsanti</string>
+    <string name="navigation_bar_glow_tint_title">Colore bagliore pulsanti</string>
+
+</resources>
