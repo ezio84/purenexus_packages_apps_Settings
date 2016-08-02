@@ -120,7 +120,7 @@
   <string name="bajasur">Bajasur83</string>
   <string name="tweak_sum">Misc Tweaks</string>
   <!-- Nexus version -->
-  <string name="nexus_version">PureNexus version</string>
+  <string name="nexus_version">PureNexus mod version</string>
   <string name="nexus_version_default">Unknown</string>
   <!-- Vendor version -->
   <string name="vendor_version">Vendor version</string>
